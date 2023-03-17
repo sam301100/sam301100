@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **samruddhi0730@gmail.com**
 
-- 📄 Know about my experiences [Link](Link)
+- 📄 Know about my experiences [Link](https://github.com/sam301100/my_experiences)
 
 - ⚡ Fun fact **I think it's all about building your life as habits as against goals and targets 🚀**
 
