@@ -7,6 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+- 🧩 Contributor at Blockly @google | First Merge: [#7517](https://github.com/google/blockly/pull/7517)
+
 - 🔭 I’m currently working on [Staycation (Booking App)](https://github.com/sam301100/Booking-App)
 
 - 🌱 I’m currently learning **Computer Science 👾**
