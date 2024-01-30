@@ -9,7 +9,7 @@
 
 - 🧩 Contributor at Blockly @Google | First Merge: [#7517](https://github.com/google/blockly/pull/7517)
 
-- 🔭 I’m currently working on [Golang-React-Project](https://github.com/sam301100/Golang-React-ToDo-App) and [Staycation (Booking App)](https://github.com/sam301100/Booking-App)
+- 🔭 I’m currently working on [Golang-React-Project](https://github.com/sam301100/Golang-React-ToDo-App) and [ConferEase](https://github.com/sam301100/Booking-App)
 
 - 🌱 I’m currently learning **Computer Science 👾**
 
