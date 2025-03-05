@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Samruddhi Somwanshi</h1>
-<h3 align="center">A passionate software developer👨‍💻</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sam301100&label=Profile%20views&color=0e75b6&style=flat" alt="sam301100" /> </p> -->
 
@@ -7,19 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🧩 Contributor at Blockly @Google | First Merge: [#7517](https://github.com/google/blockly/pull/7517)
-
-- 🔭 I’m currently working on [Golang-React-Project](https://github.com/sam301100/Golang-React-ToDo-App) 
-
-- 🌱 I’m currently learning **Computer Science 👾**
-
-- 👯 I’m looking to collaborate on **any open source project**
-
-- 🤝 I’m looking for help with **improving my skills and staying up-to-date with new technologies and industry trends**
-
 - 📫 How to reach me **samruddhi0730@gmail.com**
 
-- 📄 Know about my experiences [Link](https://sam301100.github.io/my-portfolio/resume.html)
+- 📄 Know about my experiences [Link](https://sam301100.github.io/my-portfolio/)
 
 - ⚡ Fun fact **I think it's all about building your life as habits as against goals and targets 🚀**
 
